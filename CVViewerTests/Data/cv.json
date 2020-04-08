@@ -1,0 +1,45 @@
+{
+    "basic" : {
+        "photo": "https://media-exp1.licdn.com/dms/image/C5603AQF5eoyxIEFH2g/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=sSz1lpIDs-quMMpr7OIcwu1WEkwpVAaNag_M2FLIYGI",
+        "firstName": "Vojtech",
+        "lastName": "Kolacek",
+        "phone": "+420 777 651 182",
+        "url": "https://www.woko.info/",
+        "address": "Kotlářská 10",
+        "city": "Brno",
+        "country": "Czech Republic",
+        "zip": "61200"
+    },
+    "objective": "I'm looking forward to working on new and challenging Swift projects.",
+    "workExperience": [
+        {
+            "title": "Senior iOS Developer",
+            "company": {
+                "name": "Eternal s.r.o.",
+                "url": "https://www.eternal.cz/",
+                "logo": "https://www.eternal.cz/wp-content/themes/eternal/images/logo.png"
+            },
+            "startDate": "20190401",
+            "details": "At Eternal I've worked on several iOS projects such as an app for a health insurance company, an app for a public university, and apps for several municipalities in Czechia. I've also developed several internal libraries such as a HTML parser and renderer using native UIKit views, a Realm database synchronization tool, or a MVVM project template using state-of-the-art design patterns (such as DI/Swinject, Coordinators/Routers, Services, RxSwift/Cocoa, Quick/Nimble / VC/VM testing / service mocking / leak testing)."
+        }
+    ],
+    "technologies": [
+        {
+            "title": "Programming Languages",
+            "description": "Main: Swift, Objective-C (since Swift launched mostly supporting legacy code)\nExperienced: Java, C#, Javascript/NodeJS, Python, Kotlin\nEssential: Bash"
+        }
+    ],
+    "languages": [
+        {
+            "title": "English",
+            "level": "Advanced (state exam certificate)"
+        }],
+    "education": [
+        {
+            "course": "MS in Information Technology",
+            "institution": "Brno University of Technology (VUT)",
+            "startDate": "2009",
+            "endDate": "2011",
+        }
+    ]
+}

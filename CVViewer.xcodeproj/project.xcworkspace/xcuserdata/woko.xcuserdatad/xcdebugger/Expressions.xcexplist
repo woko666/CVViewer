@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "static JsonTools.decodeString&lt;A&gt;(_:from:formatter:):JsonTools.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(data: from, encoding: .utf8)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
